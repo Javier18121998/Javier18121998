@@ -1,4 +1,4 @@
-# Are you seeking a Dot Net Developer :question:
+# Are you looking for a Dot Net Developer ❔
 
 "**I am a Backend Developer with a focus on .Net technologies**, passionate about creating new, innovative, and efficient solutions. I enjoy constantly learning about new technologies and implementing them to support the specific needs of current issues, which leads to new challenges."
 
