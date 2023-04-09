@@ -1,10 +1,6 @@
 # Are you seeking a Dot Net Developer :question:
 
-"**I am a highly motivated and skilled Backend Developer, specializing in .Net technologies.** I have a passion for creating innovative and efficient solutions that meet the specific needs of clients. With a proven track record of success, I am able to analyze complex problems and develop creative, practical solutions that deliver tangible results.
-
-My expertise in the latest industry trends and best practices enables me to stay ahead of the curve and provide the best possible support to my clients. I am a strong communicator and collaborator, able to work effectively with clients, colleagues, and stakeholders at all levels.
-
-In addition, I am committed to ongoing professional development and staying up-to-date with the latest technological advancements. I thrive on new challenges and am dedicated to meeting and exceeding project goals."
+"**I am a Backend Developer with a focus on .Net technologies**, passionate about creating new, innovative, and efficient solutions. I enjoy constantly learning about new technologies and implementing them to support the specific needs of current issues, which leads to new challenges."
 
 **Actually I´m learning ReactJs and ExpressJS**
 
