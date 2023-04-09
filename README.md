@@ -1,4 +1,4 @@
-# Are you seeking a Dot Net Developer? 👋
+# Are you seeking a Dot Net Developer? 👋 :wave:
 
 **I'm a skilled .Net Backend Developer** with experience building registration and payment systems for top-tier companies like Bimbo and Pascual Boing. I've also helped create bespoke websites for Smart Kode and collaborated on visually stunning government projects for Secretaria del Gobierno del Estado de Puebla. My focus is on creating personalized, high-quality solutions with seamless technical support and network assistance. I'm always seeking new challenges to make a meaningful impact in the programming world.
 
