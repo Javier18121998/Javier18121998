@@ -2,9 +2,9 @@
 
 "**I am a Backend Developer with a focus on .Net technologies**, passionate about creating new, innovative, and efficient solutions. I enjoy constantly learning about new technologies and implementing them to support the specific needs of current issues, which leads to new challenges."
 
---Practicing: 💻💣💣💣
---Learning: 📖💣💣💣
---Loving: 💙💣💣💣
+--Practicing: 💻💣💣💣<br>
+--Learning: 📖💣💣💣<br>
+--Loving: 💙💣💣💣<br>
 
 **Actually I´m learning ReactJs and ExpressJS**
 
