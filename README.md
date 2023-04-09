@@ -9,6 +9,6 @@
 
 
 
-## My Linkedin Profile
+## My Linkedin Profile :wave:
   
 <image src="https://user-images.githubusercontent.com/110134629/230747440-86e0f88e-4872-48a9-a4c2-bc42245a3559.png" alt="img" width="60" href="https://www.linkedin.com/in/javier-mar%C3%ADn-garc%C3%ADa-2a81a2245/">
