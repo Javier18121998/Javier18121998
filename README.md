@@ -1,6 +1,10 @@
 # Are you seeking a Dot Net Developer :question:
 
-**I'm a skilled .Net Backend Developer** with experience building registration and payment systems for top-tier companies like Bimbo and Pascual Boing. I've also helped create bespoke websites for Smart Kode and collaborated on visually stunning government projects for Secretaria del Gobierno del Estado de Puebla. My focus is on creating personalized, high-quality solutions with seamless technical support and network assistance. I'm always seeking new challenges to make a meaningful impact in the programming world.
+"**I am a highly motivated and skilled Backend Developer, specializing in .Net technologies.** I have a passion for creating innovative and efficient solutions that meet the specific needs of clients. With a proven track record of success, I am able to analyze complex problems and develop creative, practical solutions that deliver tangible results.
+
+My expertise in the latest industry trends and best practices enables me to stay ahead of the curve and provide the best possible support to my clients. I am a strong communicator and collaborator, able to work effectively with clients, colleagues, and stakeholders at all levels.
+
+In addition, I am committed to ongoing professional development and staying up-to-date with the latest technological advancements. I thrive on new challenges and am dedicated to meeting and exceeding project goals."
 
 **Actually I´m learning ReactJs and ExpressJS**
 
