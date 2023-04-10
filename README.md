@@ -5,7 +5,7 @@
 -- Engaging in skill development: Enhancing proficiency and expertise 💻📈 <br>
 -- Acquiring knowledge: Pursuing intellectual growth and learning 📖🧠<br>
 -- Cultivating meaningful relationships: Fostering love and connection 💙❤️<br>
--- Developing - Fail and Developing again 💻💣
+-- Developing - Fail and Developing again 💻💣📈
 
 **Actually I´m learning ReactJs and ExpressJS**
 
